@@ -1213,27 +1213,6 @@ section.lazy-placeholder:after {
 .cid-rV0D3ajFwL textarea.form-control {
   min-height: 188px;
 }
-.cid-rWTZMGBOgk {
-  background: #ffffff;
-  padding-top: 0px;
-  padding-bottom: 30px;
-}
-.cid-rWTZMGBOgk .image-block {
-  margin: auto;
-}
-.cid-rWTZMGBOgk figcaption {
-  position: relative;
-}
-.cid-rWTZMGBOgk figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rWTZMGBOgk .image-block {
-    width: 100% !important;
-  }
-}
 .cid-rQhvH5k8eU {
   background: #ffffff;
   padding-top: 0px;
