@@ -1459,6 +1459,21 @@ section.lazy-placeholder:after {
 .cid-s3EKHnwYto P {
   text-align: left;
 }
+.cid-s6I2hmPzQW {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #404040;
+}
+.cid-s6I2hmPzQW .mbr-text,
+.cid-s6I2hmPzQW blockquote {
+  color: #767676;
+}
+.cid-s6I2hmPzQW .mbr-text P {
+  text-align: left;
+}
+.cid-s6I2hmPzQW .mbr-text {
+  color: #efefef;
+}
 .cid-rQbKiJXNZe .navbar {
   padding: .5rem 0;
   background: #404040;
@@ -1869,6 +1884,45 @@ section.lazy-placeholder:after {
 .cid-rQbUgujYzw .mbr-text {
   color: #767676;
 }
+.cid-s6HXbw4iVn {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 30px;
+}
+.cid-s6HXbw4iVn .image-block {
+  margin: auto;
+}
+.cid-s6HXbw4iVn .mbr-figure {
+  margin: 0 auto;
+}
+.cid-s6HXbw4iVn figcaption {
+  position: relative;
+}
+.cid-s6HXbw4iVn figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s6HXbw4iVn .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rQc35fbMtZ {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rQc35fbMtZ .mbr-text,
+.cid-rQc35fbMtZ blockquote {
+  color: #767676;
+}
+.cid-rQc35fbMtZ .mbr-text P {
+  text-align: left;
+}
+.cid-rQc35fbMtZ .mbr-text {
+  color: #767676;
+}
 .cid-rQcg3z86Xx {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -2052,21 +2106,6 @@ section.lazy-placeholder:after {
   -ms-transform: none;
   -o-transform: none;
   transform: none;
-}
-.cid-rQc35fbMtZ {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rQc35fbMtZ .mbr-text,
-.cid-rQc35fbMtZ blockquote {
-  color: #767676;
-}
-.cid-rQc35fbMtZ .mbr-text P {
-  text-align: left;
-}
-.cid-rQc35fbMtZ .mbr-text {
-  color: #767676;
 }
 .cid-rQcoGLIRZO {
   padding-top: 30px;
@@ -2610,4 +2649,19 @@ section.lazy-placeholder:after {
 }
 .cid-s3EMyptmJC P {
   text-align: left;
+}
+.cid-s6I2EheG54 {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #404040;
+}
+.cid-s6I2EheG54 .mbr-text,
+.cid-s6I2EheG54 blockquote {
+  color: #767676;
+}
+.cid-s6I2EheG54 .mbr-text P {
+  text-align: left;
+}
+.cid-s6I2EheG54 .mbr-text {
+  color: #efefef;
 }
